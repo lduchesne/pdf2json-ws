@@ -1,0 +1,16 @@
+{
+  "author": "Laurent Duchesne <l@urent.org>",
+  "name": "pdf2json-ws",
+  "homepage": "https://github.com/lduchesne/pdf2json-ws",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lduchesne/pdf2json-ws.git"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "restify": "*",
+    "underscore": "*",
+    "pdf2json": "https://github.com/lduchesne/pdf2json/tarball/master"
+  }
+}
